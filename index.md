@@ -11,3 +11,7 @@ seeking knowledge, strength, and purpose.
 
 If you’ve ever felt invisible, underestimated, or left behind…
 this path is for you.
+---
+
+You can also find my technical notes and experiments here:  
+[KS Tech Notes](https://sachin19183.github.io)
