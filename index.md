@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: single
 title: "The Path of the Silent Warrior"
+classes: wide
 ---
+             
                         ════════ ⚔️ Silent Warrior ⚔️ ════════
                         
 Welcome to my personal philosophy journal.
@@ -28,11 +30,11 @@ this space can be a source of motivation for you.
 
 📌 **Who is the Silent Warrior?**  
 Discover the mindset and origin story:  
-➡️ [Walking the Silent Warrior’s Path]({{ site.baseurl }}/about.html)
+➡️ [Walking the Silent Warrior’s Path]({{ site.baseurl }}/about/)
 
 📌 **Read the Philosophy Posts**  
 Reflections and inner battles documented here:  
-➡️ [Silent Warrior Philosophy]({{ site.baseurl }}/philosophy.html)
+➡️ [Silent Warrior Philosophy]({{ site.baseurl }}/philosophy/)
 
 ---
 
@@ -45,3 +47,5 @@ Visit the main page here:
 
 You can also find my technical notes and experiments here:  
 [KS Tech Notes](https://sachin19183.github.io)
+
+*Silent Warrior — victory begins within.*
