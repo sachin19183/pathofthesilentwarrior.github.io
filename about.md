@@ -4,6 +4,9 @@ title: "Walking the Silent Warrior’s Path"
 permalink: /about/silent-warrior/
 ---
 
+[← Back to Silent Warrior Home]({{ site.baseurl }}/)
+
+
 ════════ ⚔️ Silent Warrior ⚔️ ════════
 
 I am a quiet, competitive soul.
