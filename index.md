@@ -3,6 +3,7 @@ layout: page
 title: "The Path of the Silent Warrior"
 ---
                         ════════ ⚔️ Silent Warrior ⚔️ ════════
+                        
 Welcome to my personal philosophy journal.
 
 This space follows the journey of a **Silent Warrior** (fictional) —
