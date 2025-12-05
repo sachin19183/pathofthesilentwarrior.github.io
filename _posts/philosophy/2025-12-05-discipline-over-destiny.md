@@ -29,4 +29,4 @@ Even the greatest talent becomes useless without discipline and practice.
 
 ---
 
-*Silent warriois- He walks quietly… yet rises every day*
+*Silent warrior - He walks quietly… yet rises every day*
