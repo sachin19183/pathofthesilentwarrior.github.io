@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: single
 title: "Walking the Silent Warrior’s Path"
+permalink: /about/
+author_profile: false
 ---
 
 [← Back to Silent Warrior Home]({{ site.baseurl }}/)
