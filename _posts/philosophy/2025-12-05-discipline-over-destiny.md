@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Silent Warrior’s Philosophy: Discipline Over Destiny"
+categories: [philosophy]
+---
 
 ════════ ⚔️ Silent Warrior ⚔️ ════════
 
@@ -28,5 +33,8 @@ If you maintain discipline and consistency, you can overcome difficult times.
 Even the greatest talent becomes useless without discipline and practice.
 
 ---
+
+[← Back to Silent Warrior Home]({{ site.baseurl }}/)
+
 
 *Silent warrior - He walks quietly… yet rises every day*
