@@ -1,3 +1,12 @@
 title: "Path of the Silent Warrior"
 description: "Relentless Pursuit of Knowledge & Strength"
+
+# GitHub Pages Project Site Settings
+url: "https://sachin19183.github.io"
+baseurl: "/path-of-the-silent-warrior"
+
+# Theme
 theme: jekyll-theme-cayman
+
+# Recommended Optional Settings
+markdown: kramdown
