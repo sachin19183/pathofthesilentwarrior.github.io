@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title: "The Path of the Silent Warrior"
 ---
-
+                        ════════ ⚔️ Silent Warrior ⚔️ ════════
 Welcome to my personal philosophy journal.
 
 This space follows the journey of a **Silent Warrior** (fictional) —
@@ -21,7 +21,24 @@ and never bows down before incompetence or injustice.
 He fights to become **unstoppable**.
 
 If you’ve ever felt invisible, underestimated, or left behind —
-this path is for you.
+this space can be a source of motivation for you.
+
+### 🧭 Start the Journey
+
+📌 **Who is the Silent Warrior?**  
+Discover the mindset and origin story:  
+➡️ [Walking the Silent Warrior’s Path]({{ site.baseurl }}/about/)
+
+📌 **Read the Philosophy Posts**  
+Reflections and inner battles documented here:  
+➡️ [Silent Warrior Philosophy]({{ site.baseurl }}/philosophy/)
+
+---
+
+### 🔗 Return to Main Home Page
+This philosophy site is a part of my larger knowledge journey.  
+Visit the main page here:  
+➡️ [sachin19183.github.io](https://sachin19183.github.io)
 
 ---
 
